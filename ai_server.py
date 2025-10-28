@@ -8,6 +8,7 @@ import numpy as np
 import torch
 from ultralytics import YOLO
 
+
 # ======================================
 # YOLO 설정
 # ======================================
