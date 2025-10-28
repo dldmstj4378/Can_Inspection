@@ -1,0 +1,11 @@
+path: datasets/can_defect
+train: images/train
+val: images/val
+
+nc: 5
+names:
+  - cap_missing
+  - top_dent
+  - label_missing
+  - side_dent
+  - color_abnormal
