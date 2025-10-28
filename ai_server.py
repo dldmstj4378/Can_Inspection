@@ -3,7 +3,6 @@ import struct
 import json
 import time
 import threading
-
 import cv2
 import numpy as np
 import torch
